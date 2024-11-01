@@ -29,7 +29,7 @@ const VGLink = ({typeLink, link}:VGLinkInt) => {
     
     const icons = ["https://i.pcmag.com/imagery/reviews/044PXMK6FlED1dNwOXkecXV-4..v1597354669.jpg", 
         "https://static.vecteezy.com/system/resources/previews/020/975/553/non_2x/steam-logo-steam-icon-transparent-free-png.png",
-        "./Giticon.png", 
+        "./GitIcon.png", 
         "https://cdn-icons-png.flaticon.com/512/1384/1384060.png"
 
     ]
